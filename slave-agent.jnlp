@@ -1,0 +1,3 @@
+
+    
+    <jnlp codebase="http://13.233.225.133:8080/computer/slaveagent/" spec="1.0+"><information><title>Agent for slaveagent</title><vendor>Jenkins project</vendor><homepage href="https://jenkins-ci.org/"/></information><security><all-permissions/></security><resources><j2se version="1.8+"/><jar href="http://13.233.225.133:8080/jnlpJars/remoting.jar"/></resources><application-desc main-class="hudson.remoting.jnlp.Main"><argument>00af1d990f39f643a8bd9f1b53882d8757234775753d68f93c617193b1d36fc5</argument><argument>slaveagent</argument><argument>-workDir</argument><argument>/workspace</argument><argument>-internalDir</argument><argument>remoting</argument><argument>-url</argument><argument>http://13.233.225.133:8080/</argument></application-desc></jnlp>
